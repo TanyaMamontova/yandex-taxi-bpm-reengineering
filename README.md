@@ -33,9 +33,4 @@
 
 ### Содержимое репозитория
 - `yandex_taxi_bpm_reengineering_report` — полный отчёт по проекту  
-- `epc/` — EPC-схемы (As-Is):  
-  - `epc_order_intake_as_is.png` — Приём заказа от клиента  
-  - `epc_ride_execution_payment_as_is.png` — Выполнение и оплата заказа  
-- `bpmn/` — BPMN-схемы (To-Be):  
-  - `bpmn_order_intake_to_be.png` — Приём заказа с учётом оптимизации  
-  - `bpmn_ride_execution_payment_to_be.png` — Выполнение и оплата заказа с оптимизацией  
+Схемы EPC и BPMN представлены в отчете
